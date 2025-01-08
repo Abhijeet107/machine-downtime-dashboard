@@ -36,23 +36,23 @@ Dashboard Development: Created interactive visuals, including pie charts, bar ch
 Analysis: Monitored downtime events, uptime ratios, and the performance of machines.
 
 ##Project Insights
-# Machine Downtime Distribution:
+### Machine Downtime Distribution:
 
 "Makino-L2-Unit1-2015" experienced the highest number of downtimes (874 events, 34.96%).
 "Makino-L1-Unit1-2013" and "Makino-L3-Unit1-2015" had slightly lower but comparable downtime counts (808 and 818 events, respectively).
 
-# Downtime by Type:
+### Downtime by Type:
 
 Machine failures (454 for Makino-L1, 415 for Makino-L3) are slightly more frequent than machine downtime (420 for Makino-L1, 403 for Makino-L3).
 
-# Monthly Trends:
+### Monthly Trends:
 Downtime peaked in March and April 2022 across all shop floors (Shopfloor-L1, L2, and L3).
 A significant decline in downtime events was observed from May to July 2022.
 
-# Spindle Speed Trends:
+### Spindle Speed Trends:
 Spindle speed performance has improved steadily from 2021 to 2022.
 
-# Key Metrics Impact:
+### Key Metrics Impact:
 Hydraulic pressure and coolant temperature are directly correlated with downtime events, as highlighted in scatter plots.
 
 ## Conclusion
