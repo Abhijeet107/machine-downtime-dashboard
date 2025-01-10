@@ -35,7 +35,7 @@ Data Cleaning & Preparation: Filtered and structured data by machine ID, downtim
 Dashboard Development: Created interactive visuals, including pie charts, bar charts, and line graphs, to present trends and insights.
 Analysis: Monitored downtime events, uptime ratios, and the performance of machines.
 
-##Project Insights
+## Project Insights
 ### Machine Downtime Distribution:
 
 "Makino-L2-Unit1-2015" experienced the highest number of downtimes (874 events, 34.96%).
